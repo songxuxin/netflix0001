@@ -1,0 +1,11 @@
+.footer-container {
+    bottom: 0;
+}
+
+.footer {
+    display: flex;
+}
+
+p {
+    margin-right: 24px;
+}
